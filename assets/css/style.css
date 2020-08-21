@@ -40,3 +40,10 @@ h5 {
 .bg-color {
     background-color: rgb(202, 17, 178);
 }
+
+.carousel-indicators li {
+    width: 1rem;
+    height: 1rem;
+    background-color: black;
+    border-radius: 50%;
+}
