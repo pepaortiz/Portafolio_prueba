@@ -22,15 +22,18 @@ header {
 }
 
 h1 {
-    font-size: 2em;
-    padding-top: 30rem;
+    font-size: 1.3em;
 }
 
 h2 {
-    font-size: 2em;
+    font-size: 1.3em;
 }
 
 h5 {
     font-size: 2em;
+}
+
+.margen {
+    padding-top: 7em;
 }
 
